@@ -1,0 +1,24 @@
+.login-page-container{
+    display: flex;
+    flex-direction: row;
+    background-attachment: fixed;
+    
+}
+
+.logi-form-container{
+    flex: 0.5;
+   
+}
+
+.login-logo{
+    margin: 5px;
+}
+.login-element{
+    display: flex;
+    width: 200%;
+    height:auto;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
